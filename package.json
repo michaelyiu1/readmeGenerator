@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "name": "readmegenerator",
+  "description": "Prompts user with questions about the repo and generates a quality readme for the user",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelyiu1/readmeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelyiu1/readmeGenerator/issues"
+  },
+  "homepage": "https://github.com/michaelyiu1/readmeGenerator#readme"
 }
