@@ -1,12 +1,12 @@
 # d
 
   ## Table of Contents
-      1. [Installation](#installation)
-      2. [Usage](#usage)
-      3. [Contributing](#contributing)
-      4. [Tests](#tests) 
-      5. [License](#license)
-      6. [Questions](#questions)
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [Contributing](#contributing)
+  4. [Tests](#tests) 
+  5. [License](#license)
+  6. [Questions](#questions)
   
   ## Installation <a name="installation"></a>
   d
