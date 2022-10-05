@@ -1,30 +1,13 @@
-# d
+# README Generator
 
-  ## Table of Contents
-  1. [Installation](#installation)
-  2. [Usage](#usage)
-  3. [Contributing](#contributing)
-  4. [Tests](#tests) 
-  5. [License](#license)
-  6. [Questions](#questions)
-  
-  ## Installation <a name="installation"></a>
-  d
-  
-  ## Usage <a name="usage"></a>
-  d
-  
-  ## Contributing <a name="contributing"></a>
-  undefined
-  
-  ## Tests <a name="tests"></a>
-  d
-  
-  ## License <a name="license"></a>
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  hi
-  
-  ## Questions <a name="questions"></a>
-  GitHub Profile: d
-  
-  Email: d
+## Description 
+This is a README generator that prompts a user to answer a series of questions about their README, and once all the questions are answers a high quality README file will be created automatically
+
+## Screenshot
+![Alt text](/assets/screenshot.PNG "Optional Title")
+
+## Links
+
+Video link : https://watch.screencastify.com/v/71hdFYv02kSEAifw40vp
+
+Github Repo: https://github.com/michaelyiu1/readmeGenerator
